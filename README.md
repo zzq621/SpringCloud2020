@@ -1,2 +1,2 @@
 # SpringCloud2020
-该项目是跟随尚硅谷的周阳老师一步步完成的
+该项目是跟随尚硅谷的周阳老师的SpringCloud2020一步步完成的,在这里对阳哥说一声十分感谢.里面不仅涉及到了传统的SpringCloud微服务组件，例如服务注册的Eureka,Consul,服务配置的Config,服务降级的Hystrix等，还涉及到了时下最流行的SpringCloudAlibaba微服务技术架构，例如Nacos,Sentinel,Seata；
